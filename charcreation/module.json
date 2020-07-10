@@ -50,6 +50,6 @@
 	"styles": ["./css/charcreation5e.css"],
 	"packs": [],
 	"url": "xxx",
-	"manifest": "xxx",
+	"manifest": "https://github.com/lusio8/CharCreation5e/blob/master/charcreation/module.json",
 	"download": "xxx"
 }
